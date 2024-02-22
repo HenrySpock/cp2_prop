@@ -1,0 +1,22 @@
+Proposal for Let’s Go Castling!
+
+App description: 
+
+This will be a light social media app centered on travel/trips, allowing people to share posts about places they have visited or want to visit. It will be themed (but not exclusive) to medieval sites.
+
+The app will provide social interactivity for friending, following, direct messaging, commenting and liking of posts.  
+
+It will rely on Leaflet maps to display information about where users have been.
+The main map (which you can see before logging in) populates the 5 most recent non-private entries for everyone to see. When a user registers and/or logs in, they will then see all posts made and can sort what they are seeing based on:
+a slew of medieval types of site
+a slew of non-medieval types of site
+UNESCO sites
+filming locations
+video game locations
+
+The app will provide an admin suite (that allows for handling of reported users with communication, warning, suspending, banning) and the ability to schedule site maintenance.
+
+The 2 big things this app is not (besides not being Facebook or Twitter):
+1. An image hosting site. 
+
+2. The type of site where someone would post everything that comes into their head throughout the day. They *could* do that, but it would have to be attached to the details of a trip/visit somewhere.
